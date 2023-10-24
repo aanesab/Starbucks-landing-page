@@ -406,6 +406,12 @@ ul {
   text-align: center;
 }
 
+.join-btn:hover {
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
+  border-color: rgb(0, 0, 0);
+}
+
 /* footer */
 
 .icons {
